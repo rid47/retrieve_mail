@@ -1,0 +1,1 @@
+Python script to read your mail inbox

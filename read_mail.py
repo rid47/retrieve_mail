@@ -5,8 +5,8 @@
 import email
 import imaplib
 
-EMAIL = 'srdl.doict@gmail.com'  # srdl.doict@gmail.com
-PASSWORD = 'Pass@2019'  # Pass@2019
+EMAIL = 'yourmail@gmail.com'
+PASSWORD = 'yourpassword'
 SERVER = 'imap.gmail.com'
 
 # connect to the server and go to its inbox
